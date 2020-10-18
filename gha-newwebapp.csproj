@@ -5,4 +5,7 @@
     <RootNamespace>gha_newwebapp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Models\" />
+  </ItemGroup>
 </Project>

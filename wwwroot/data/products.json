@@ -1,0 +1,18 @@
+[
+    {
+        "id" : "jenlooper-cactus",
+        "maker" : "@jenlooper",
+        "img" : "https://hackster.imgix.net/uploads/cover_image/file/90767/IMG_7446.JPG?auto=compress%2Cformat&w=900&h=675&fit=min",
+        "url" : "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+        "title" : "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
+        "description" : "This project is a good learning project to get comfortable with soldering and programming an Arduino."
+    },
+    {
+        "id" : "jenlooper-beacon",
+        "maker" : "@jenlooper",
+        "img" : "https://hackster.imgix.net/uploads/cover_image/file/147241/hackster-header.png?auto=compress%2Cformat&w=900&h=675&fit=min",
+        "url" : "https://www.hackster.io/agent-hawking-1/create-a-beacon-enabled-treasure-box-085314",
+        "title" : "Create a Beacon-Enabled Treasure Box",
+        "description" : "Create a beacon-enabled treasure box with a remote entry that can enhance a user's experience in a cultural site."
+    }
+]
